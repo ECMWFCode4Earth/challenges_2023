@@ -4,8 +4,6 @@
 <br>
 
 Code for Earth is jointly funded by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int/), [Copernicus](https://climate.copernicus.eu) and [Destination Earth](https://stories.ecmwf.int/destination-earth/index.html) initiative and supported by the two cloud programs [European Weather Cloud](https://www.europeanweather.cloud/) and the Copernicus Data and Information access service (DIAS) [WEkEO](https://www.wekeo.eu/).
-
-<br>
      
 <br>
 
@@ -43,7 +41,7 @@ Browse through the [Code for Earth challenges](https://github.com/ECMWFCode4Eart
 The selected Code for Earth 2023 project teams will be announced on 27 Apr 2023.
 
 ### 3. Coding period: 2 May  - 31 Aug 2023
-The 4-month long coding period will start on 2 May 2023 and will last until 31 August 2023. During this time, the selected teams will team up with experienced ECMWF mentors and experts in weather, climate and atmosphere. <br> Follow the progress of the projects here on Github.
+The 4-month long coding period will start on 2 May 2023 and will last until 31 August 2023. During this time, the selected teams will team up with experienced ECMWF mentors and experts in earth science, computer science or Digital Twins. 
 
 ### 4. Final Code for Earth day: September 2023
 The Code for Earth day is a celebratory closure of the programme. Each Code for Earth team will be invited to present their project results.
