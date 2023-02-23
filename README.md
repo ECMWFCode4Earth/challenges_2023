@@ -6,8 +6,6 @@
 Code for Earth is jointly funded by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int/), [Copernicus](https://climate.copernicus.eu) and [Destination Earth](https://stories.ecmwf.int/destination-earth/index.html) initiative and supported by the two cloud programs [European Weather Cloud](https://www.europeanweather.cloud/) and the Copernicus Data and Information access service (DIAS) [WEkEO](https://www.wekeo.eu/).
 
 <br>
-
-
      
 <br>
 
