@@ -13,8 +13,8 @@ There are two challenges streams:
 ### Stream 1- Data Visualization & Compression for Earth Science 
 <br>
 
-* Challenge 1 -[Climate intelligence: from data to visualization](https://github.com/ECMWFCode4Earth/challenges_2023/issues/1) 
-* Challenge 2 -Atmospheric Composition Dataset Explorer
+* [Challenge 1 -Climate intelligence: from data to visualization](https://github.com/ECMWFCode4Earth/challenges_2023/issues/1) 
+* [Challenge 2 -Atmospheric Composition Dataset Explorer](https://github.com/ECMWFCode4Earth/challenges_2023/issues/2)
 * Challenge 3 -Compression of Geospatial Data with Varying Information Density 
 * Challenge 4 -Interactive Meteorological Data Vis with Jupyter
 * Challenge 5 -Tropical Cyclone Hazard Dashboard
