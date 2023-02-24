@@ -1,6 +1,7 @@
 # ECMWF Code for Earth 2023
 
-**ECMWF Code for Earth brings innovation and open source developments to the Earth science community**. It is a collaborative programme where each summer several developer teams team up with mentors from ECMWF to work on earth science-related software developments and applications.
+**ECMWF Code for Earth brings innovation and open source developments to the Earth science community**. 
+It is a collaborative programme where each summer several developer teams from different backgrounds in earth sciences, computer sciences and software development team up with mentors from ECMWF to work on earth science-related software developments and applications.
 <br>
 
 Code for Earth is jointly funded by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int/), [Copernicus](https://climate.copernicus.eu) and [Destination Earth](https://stories.ecmwf.int/destination-earth/index.html) initiative and supported by the two cloud programs [European Weather Cloud](https://www.europeanweather.cloud/) and the Copernicus Data and Information access service (DIAS) [WEkEO](https://www.wekeo.eu/).
