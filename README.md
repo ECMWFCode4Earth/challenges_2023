@@ -34,7 +34,7 @@ There are two challenges streams:
 
 ## How it works
 
-### 1. Call for Applications: 1 Mar - 12 Apr 2023
+### 1. Call for Participation: 1 Mar - 12 Apr 2023
 Browse through the [Code for Earth challenges](https://github.com/ECMWFCode4Earth/challenges_2023/issues), ask questions and together with the mentors, tailor your proposal. Applications closed on 12 April 2023.
 
 ### 2. Announcement of selected proposals: 27 Apr 2023
