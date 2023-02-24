@@ -24,7 +24,7 @@ There are two challenges streams:
 <br>
 
 * [Challenge 6 -Correcting biases in wildfire satellite observations with ML](https://github.com/ECMWFCode4Earth/challenges_2023/issues/4)
-* [Challenge 7 -Diffusion Models on WeatherBench] (https://github.com/ECMWFCode4Earth/challenges_2023/issues/5)
+* [Challenge 7 -Diffusion Models on WeatherBench](https://github.com/ECMWFCode4Earth/challenges_2023/issues/5)
 * [Challenge 8 -Discovering hidden patterns on Climate Data Store](https://github.com/ECMWFCode4Earth/challenges_2023/issues/6)
 * [Challenge 9 -FloodMule: a machine learning emulator of the LISFLOOD hydrological model](https://github.com/ECMWFCode4Earth/challenges_2023/issues/7)
 * Challenge 10 -ML dataset, graphical product and document search 
