@@ -23,9 +23,9 @@ There are two challenges streams:
 ### Stream 2- Machine Learning for Earth Science 
 <br>
 
-* Challenge 6 -Correcting biases in wildfire satellite observations with ML
+* [Challenge 6 -Correcting biases in wildfire satellite observations with ML]
 * Challenge 7 -Diffusion Models on WeatherBench 
-* Challenge 8 -Discovering hidden patterns on Climate Data Store
+* [Challenge 8 -Discovering hidden patterns on Climate Data Store](https://github.com/ECMWFCode4Earth/challenges_2023/issues/6)
 * Challenge 9 -FloodMule: a machine learning emulator of the LISFLOOD hydrological model 
 * Challenge 10 -ML dataset, graphical product and document search 
 * Challenge 11 -Regional Reanalysis for Europe with Machine Learning 
