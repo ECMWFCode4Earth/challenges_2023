@@ -28,7 +28,7 @@ There are two challenges streams:
 * [Challenge 8 -Discovering hidden patterns on Climate Data Store](https://github.com/ECMWFCode4Earth/challenges_2023/issues/6)
 * [Challenge 9 -FloodMule: a machine learning emulator of the LISFLOOD hydrological model](https://github.com/ECMWFCode4Earth/challenges_2023/issues/7)
 * [Challenge 10 -ML dataset, graphical product and document search](https://github.com/ECMWFCode4Earth/challenges_2023/issues/9) 
-* Challenge 11 -Regional Reanalysis for Europe with Machine Learning 
+* [Challenge 11 -Regional Reanalysis for Europe with Machine Learning](https://github.com/ECMWFCode4Earth/challenges_2023/issues/10) 
 
 <br>
 
