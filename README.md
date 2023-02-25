@@ -8,7 +8,7 @@ Code for Earth is jointly funded by the [European Centre for Medium-Range Weathe
      
 <br>
 
-<img src='./
+<img src='./Code for Earth_banner.png' alt='ESoWC' align='center' width='80%'></img>
 
 
 
