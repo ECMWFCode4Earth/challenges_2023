@@ -43,13 +43,13 @@ There are two challenges streams:
 ## How it works
 
 ### 1. Call for Participation: 1 Mar - 12 Apr 2023
-Browse through the [Code for Earth challenges](https://github.com/ECMWFCode4Earth/challenges_2023/issues), ask questions and together with the mentors, tailor your proposal. Applications closed on 12 April 2023.
+Browse through the [Code for Earth challenges](https://github.com/ECMWFCode4Earth/challenges_2023/issues), ask questions and together with the mentors, tailor your proposal. Submit your proposal by 12 April 2023.
 
 ### 2. Announcement of selected proposals: 27 Apr 2023
 The selected Code for Earth 2023 project teams will be announced on 27 Apr 2023.
 
 ### 3. Coding period: 2 May  - 31 Aug 2023
-The 4-month long coding period will start on 2 May 2023 and will last until 31 August 2023. During this time, the selected teams will team up with experienced ECMWF mentors and experts in earth science, computer science or Digital Twins. 
+The 4-month long coding period will start on 2 May 2023 and ends 31 August 2023. During this time, the selected teams will team up with experienced ECMWF mentors and experts in earth science, computer science or Digital Twins. 
 
 ### 4. Final Code for Earth day: 20 September 2023
 The Code for Earth day is a celebratory closure of the programme. Each Code for Earth team will be invited to present their project results.
