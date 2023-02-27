@@ -21,22 +21,22 @@ There are two challenges streams:
 ### Stream 1- Data Visualization & Compression for Earth Science 
 <br>
 
-* [Challenge 1 -Climate intelligence: from data to visualization](https://github.com/ECMWFCode4Earth/challenges_2023/issues/1) 
-* [Challenge 2 -Atmospheric Composition Dataset Explorer](https://github.com/ECMWFCode4Earth/challenges_2023/issues/2)
-* [Challenge 3 -Compression of Geospatial Data with Varying Information Density](https://github.com/ECMWFCode4Earth/challenges_2023/issues/3)
-* [Challenge 4 -Interactive Meteorological Data Vis with Jupyter](https://github.com/ECMWFCode4Earth/challenges_2023/issues/8)
-* [Challenge 5 -Tropical Cyclone Hazard Dashboard](https://github.com/ECMWFCode4Earth/challenges_2023/issues/11)
+* [Challenge 10 -Climate intelligence: from data to visualization](https://github.com/ECMWFCode4Earth/challenges_2023/issues/1) 
+* [Challenge 11 -Atmospheric Composition Dataset Explorer](https://github.com/ECMWFCode4Earth/challenges_2023/issues/2)
+* [Challenge 12 -Compression of Geospatial Data with Varying Information Density](https://github.com/ECMWFCode4Earth/challenges_2023/issues/3)
+* [Challenge 13 -Interactive Meteorological Data Vis with Jupyter](https://github.com/ECMWFCode4Earth/challenges_2023/issues/8)
+* [Challenge 14 -Tropical Cyclone Hazard Dashboard](https://github.com/ECMWFCode4Earth/challenges_2023/issues/11)
 
 
 ### Stream 2- Machine Learning for Earth Science 
 <br>
 
-* [Challenge 6 -Correcting biases in wildfire satellite observations with ML](https://github.com/ECMWFCode4Earth/challenges_2023/issues/4)
-* [Challenge 7 -Diffusion Models on WeatherBench](https://github.com/ECMWFCode4Earth/challenges_2023/issues/5)
-* [Challenge 8 -Discovering hidden patterns on Climate Data Store](https://github.com/ECMWFCode4Earth/challenges_2023/issues/6)
-* [Challenge 9 -FloodMule: a machine learning emulator of the LISFLOOD hydrological model](https://github.com/ECMWFCode4Earth/challenges_2023/issues/7)
-* [Challenge 10 -ML dataset, graphical product and document search](https://github.com/ECMWFCode4Earth/challenges_2023/issues/9) 
-* [Challenge 11 -Regional Reanalysis for Europe with Machine Learning](https://github.com/ECMWFCode4Earth/challenges_2023/issues/10) 
+* [Challenge 20 -Correcting biases in wildfire satellite observations with ML](https://github.com/ECMWFCode4Earth/challenges_2023/issues/4)
+* [Challenge 21 -Diffusion Models on WeatherBench](https://github.com/ECMWFCode4Earth/challenges_2023/issues/5)
+* [Challenge 22 -Discovering hidden patterns on Climate Data Store](https://github.com/ECMWFCode4Earth/challenges_2023/issues/6)
+* [Challenge 23 -FloodMule: a machine learning emulator of the LISFLOOD hydrological model](https://github.com/ECMWFCode4Earth/challenges_2023/issues/7)
+* [Challenge 24 -ML dataset, graphical product and document search](https://github.com/ECMWFCode4Earth/challenges_2023/issues/9) 
+* [Challenge 25 -Regional Reanalysis for Europe with Machine Learning](https://github.com/ECMWFCode4Earth/challenges_2023/issues/10) 
 
 <br>
 
