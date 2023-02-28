@@ -62,3 +62,5 @@ The Code for Earth day is a celebratory closure of the programme. Each Code for 
 * Follow Code for Earth on [Twitter](https://twitter.com/ECMWFCode4Earth), [LinkedIn](https://www.linkedin.com/company/ecmwf-code-for-earth) and [YouTube](https://www.youtube.com/channel/UCWLn6evyZ6tTktvUSTE1Xow)
 * Read a summary of ECMWF Summer of Weather Code 2022 on the ECMWF Science Blog: [ECMWF Summer of Weather Code 2022](https://www.ecmwf.int/en/about/media-centre/science-blog/2022/ecmwf-summer-weather-code-2022)
 * ECMWF Newsletter: [Summer of Weather Code becomes Code for Earth](https://www.ecmwf.int/en/newsletter/174/news/summer-weather-code-becomes-code-earth)
+* [Massive Open Online Course (MOOC) on Machine Learning in Weather and Climate](https://lms.ecmwf.int/)
+
