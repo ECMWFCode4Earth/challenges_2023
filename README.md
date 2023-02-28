@@ -4,7 +4,7 @@
 It is a collaborative programme where each summer several developer teams from different backgrounds in weather, climate, atmosphere, computer sciences and software development team up with mentors from ECMWF to work on earth science-related software developments and applications.
 <br>
 
-Code for Earth is jointly funded by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int/), [Copernicus](https://www.copernicus.eu/) and [Destination Earth](https://stories.ecmwf.int/destination-earth/index.html) initiative and supported by the two cloud programs [European Weather Cloud](https://www.europeanweather.cloud/) and the Copernicus Data and Information access service (DIAS) [WEkEO](https://www.wekeo.eu/).
+Code for Earth is jointly funded by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int/), the two Copernicus services operated by ECMWF on behalf of the European Union (the [Copernicus Climate Change Service](https://climate.copernicus.eu/) and the [Copernicus Atmosphere Monitoring Service](https://atmosphere.copernicus.eu/)) and [Destination Earth](https://www.ecmwf.int/destine) initiative, and supported by the two cloud programs [European Weather Cloud](https://www.europeanweather.cloud/) and the Copernicus Data and Information access service (DIAS) [WEkEO](https://www.wekeo.eu/).
      
 <br>
 
@@ -49,7 +49,7 @@ Browse through the [Code for Earth challenges](https://github.com/ECMWFCode4Eart
 The selected Code for Earth 2023 project teams will be announced on 27 Apr 2023.
 
 ### 3. Coding period: 2 May  - 31 Aug 2023
-The 4-month long coding period will start on 2 May 2023 and ends 31 August 2023. During this time, the selected teams will team up with experienced ECMWF mentors and experts in earth science, computer science or Digital Twins. 
+The 4-month long coding period will start on 2 May 2023 and ends 31 August 2023. During this time, the selected teams will team up with experienced ECMWF mentors and experts in weather, climate, atmosphere, computer science or machine learning. 
 
 ### 4. Final Code for Earth day: 20 September 2023
 The Code for Earth day is a celebratory closure of the programme. Each Code for Earth team will be invited to present their project results.
