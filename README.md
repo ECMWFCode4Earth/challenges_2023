@@ -18,7 +18,7 @@ Code for Earth is jointly funded by the [European Centre for Medium-Range Weathe
 ## Code for Earth 2023 Challenges
 There are two challenges streams:
 
-### Stream 1- Data Visualization & Compression for Earth Science 
+### Stream 1- Software Development for Earth Science 
 <br>
 
 * [Challenge 10 -Climate intelligence: from data to visualization](https://github.com/ECMWFCode4Earth/challenges_2023/issues/1) 
@@ -26,6 +26,7 @@ There are two challenges streams:
 * [Challenge 12 -Compression of Geospatial Data with Varying Information Density](https://github.com/ECMWFCode4Earth/challenges_2023/issues/3)
 * [Challenge 13 -Interactive Meteorological Data Vis with Jupyter](https://github.com/ECMWFCode4Earth/challenges_2023/issues/8)
 * [Challenge 14 -Tropical Cyclone Hazard Dashboard](https://github.com/ECMWFCode4Earth/challenges_2023/issues/11)
+* [Challenge 15 -Benchmarking surface heat fluxes]
 
 
 ### Stream 2- Machine Learning for Earth Science 
@@ -37,6 +38,7 @@ There are two challenges streams:
 * [Challenge 23 -FloodMule: a machine learning emulator of the LISFLOOD hydrological model](https://github.com/ECMWFCode4Earth/challenges_2023/issues/7)
 * [Challenge 24 -ML dataset, graphical product and document search](https://github.com/ECMWFCode4Earth/challenges_2023/issues/9) 
 * [Challenge 25 -Regional Reanalysis for Europe with Machine Learning](https://github.com/ECMWFCode4Earth/challenges_2023/issues/10) 
+* [Challenge 26 -Fire Forecasting]
 
 <br>
 
