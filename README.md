@@ -26,7 +26,7 @@ There are two challenges streams:
 * [Challenge 12 -Compression of Geospatial Data with Varying Information Density](https://github.com/ECMWFCode4Earth/challenges_2023/issues/3)
 * [Challenge 13 -Interactive Meteorological Data Vis with Jupyter](https://github.com/ECMWFCode4Earth/challenges_2023/issues/8)
 * [Challenge 14 -Tropical Cyclone Hazard Dashboard](https://github.com/ECMWFCode4Earth/challenges_2023/issues/11)
-* [Challenge 15 -Benchmarking surface heat fluxes]
+* [Challenge 15 -Benchmarking surface heat fluxes](https://github.com/ECMWFCode4Earth/challenges_2023/issues/12)
 
 
 ### Stream 2- Machine Learning for Earth Science 
