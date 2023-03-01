@@ -38,7 +38,7 @@ There are two challenges streams:
 * [Challenge 23 -FloodMule: a machine learning emulator of the LISFLOOD hydrological model](https://github.com/ECMWFCode4Earth/challenges_2023/issues/7)
 * [Challenge 24 -ML dataset, graphical product and document search](https://github.com/ECMWFCode4Earth/challenges_2023/issues/9) 
 * [Challenge 25 -Regional Reanalysis for Europe with Machine Learning](https://github.com/ECMWFCode4Earth/challenges_2023/issues/10) 
-* [Challenge 26 -Fire Forecasting]
+* [Challenge 26 -Fire Forecasting](https://github.com/ECMWFCode4Earth/challenges_2023/issues/13)
 
 <br>
 
