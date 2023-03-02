@@ -50,8 +50,8 @@ Browse through the [Code for Earth challenges](https://github.com/ECMWFCode4Eart
 ### 2. Announcement of selected proposals: 27 Apr 2023
 The selected Code for Earth 2023 project teams will be announced on 27 Apr 2023.
 
-### 3. Coding period: 2 May  - 31 Aug 2023
-The 4-month long coding period will start on 2 May 2023 and ends 31 August 2023. During this time, the selected teams will team up with experienced ECMWF mentors and experts in weather, climate, atmosphere, computer science or machine learning. 
+### 3. Coding phase: 2 May  - 31 Aug 2023
+The four-month long coding period starts on 02 May 2023 and ends 31 August 2023. During this time, the selected teams will work with their Code for Earth mentors. These are experts in earth sciences like weather, climate and climate change, atmosphere and air quality or in technology areas like AI/ML, cloud computing, applied data science or open source software development.
 
 ### 4. Final Code for Earth day: 20 September 2023
 The Code for Earth day is a celebratory completion of the programme. This year the event will be hosted at the ECMWF's data centre in Bologna, Italy.
