@@ -6,7 +6,7 @@ Since 2018, each summer, up to ten developer teams work together with experience
      
 <br>
 
-<img src='./Final BANNER.jpg' alt='ESoWC' align='center' width='80%'></img>
+<img src='./GitHub BANNER.jpg' alt='ESoWC' align='center' width='80%'></img>
 
 
 
