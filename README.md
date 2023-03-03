@@ -16,7 +16,7 @@ Since 2018, each summer, up to ten developer teams work together with experience
 ## Code for Earth 2023 Challenges
 There are two challenges streams:
 
-### Stream 1- Software Development for Earth Science 
+### Stream 1- Software Development for Earth Sciences 
 <br>
 
 * [Challenge 10 -Climate intelligence: from data to visualization](https://github.com/ECMWFCode4Earth/challenges_2023/issues/1) 
@@ -27,7 +27,7 @@ There are two challenges streams:
 * [Challenge 15 -Benchmarking surface heat fluxes](https://github.com/ECMWFCode4Earth/challenges_2023/issues/12)
 
 
-### Stream 2- Machine Learning for Earth Science 
+### Stream 2- Machine Learning for Earth Sciences 
 <br>
 
 * [Challenge 20 -Correcting biases in wildfire satellite observations with ML](https://github.com/ECMWFCode4Earth/challenges_2023/issues/4)
