@@ -23,6 +23,8 @@ Follow Code for Earth on [Twitter](https://twitter.com/ECMWFCode4Earth) and sign
 ## Code for Earth 2023 Challenges
 There are two challenges streams:
 
+<img src='./Stream 1.png' alt='ESoWC Stream 1' align='left' width='6%'>
+
 ### Stream 1- Software Development for Earth Sciences 
 <br>
 
@@ -33,6 +35,9 @@ There are two challenges streams:
 * [Challenge 14 -Tropical Cyclone Hazard Dashboard](https://github.com/ECMWFCode4Earth/challenges_2023/issues/11)
 * [Challenge 15 -Benchmarking surface heat fluxes](https://github.com/ECMWFCode4Earth/challenges_2023/issues/12)
 
+<br>
+
+<img src='./Stream 1.png' alt='ESoWC Stream 1' align='left' width='6%'>
 
 ### Stream 2- Machine Learning for Earth Sciences 
 <br>
