@@ -37,7 +37,7 @@ There are two challenges streams:
 
 <br>
 
-<img src='./Stream 1.png' alt='ESoWC Stream 1' align='left' width='6%'>
+<img src='./Stream 2.png' alt='ESoWC Stream 1' align='left' width='6%'>
 
 ### Stream 2- Machine Learning for Earth Sciences 
 <br>
