@@ -6,14 +6,9 @@ Since 2018, each summer, up to ten developer teams work together with experience
      
 <br>
 
-## Upcoming Q&A Webinars 
 
-<img src='./webinar_banner_March23.jpg' alt='ESoWC 2022' align='center' width='90%'></img>
+<img src='./banner with everything.png' alt='ESoWC 2022' align='center' width='90%'></img>
 
-
-We will provide valuable insights and tips on how to create successful proposals. Whether you are already familiar with Code for Earth or just learning about it, these webinars are perfect to get a competitive edge. At the end of each 45 minutes- session, our team will be on hand to answer any questions you may have, helping you to maximise your chances of success. 
-
-Make sure to [register](https://codeforearth.ecmwf.int/) to secure your spot and join us for an informative and engaging session!
 
 Follow Code for Earth on [Twitter](https://twitter.com/ECMWFCode4Earth) and sign up for our [newsletter](https://codeforearth.ecmwf.int/).
 
