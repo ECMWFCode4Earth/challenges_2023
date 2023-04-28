@@ -15,8 +15,26 @@ Follow Code for Earth on [Twitter](https://twitter.com/ECMWFCode4Earth) and sign
 <br>
 
 
-## Code for Earth 2023 Challenges
-There are two challenges streams:
+## Code for Earth 2023 Projects
+Congratulations to the ten teams that have been selected to be part of Code for Earth 2023:
+
+| Project title | Team | Mentors |
+| ---------- | --------------- | -------------- |
+| [**Climate intelligence: from data to visualization**](https://github.com/ECMWFCode4Earth/challenges_2023/issues/1) | Niclas Rieger <br> Nikolaos Mastrantonas | [Iryna Rozum](https://github.com/IrynaRozum) <br> [Edward Comyn-Platt](https://github.com/EddyCMWF) |
+| [**Atmospheric Composition Dataset Explorer**](https://github.com/ECMWFCode4Earth/challenges_2023/issues/2)| Elisa Aliverti-Piuri <br> Luigi Brancati <br> Giulia Fiantanese | [Mark Parrington](https://github.com/mparrington) <br> [Miha Razinger](https://github.com/miha-at-ecmwf) <br> [James Varndell](https://github.com/JamesVarndell) <br> [Anna Agusti Panareda](https://github.com/annaagustipanareda) <br> [Antje Inness](https://github.com/Antjeinness) <br> Frederic Chevallier |
+| [**Compression of Geospatial Data with Varying Information Density**](https://github.com/ECMWFCode4Earth/challenges_2023/issues/3) | Ayoub Fatihi <br> |[Miha Razinger](https://github.com/miha-at-ecmwf) <br> [Juan Jose Dominguez](https://github.com/juanjodd) <br> [Milan Klöwer](https://github.com/milankl) <br> [Hauke Schulz](https://github.com/observingClouds) |
+| [**Tropical Cyclone Hazard Dashboard**](https://github.com/ECMWFCode4Earth/challenges_2023/issues/11) |[]()<br> []() | [Milana Vuckovic](https://github.com/milanavuckovic) <br> [Sylvie Lamy-Thepaut](https://github.com/sylvielamythepaut) <br> Fernando Prates <br> Emma Pidduck <br> Sav Olivas |
+| [**Benchmarking surface heat fluxes**](https://github.com/ECMWFCode4Earth/challenges_2023/issues/12) | Laura Mack | [Jasper Denissen](https://github.com/JasperMCDenissen) <br> David Fairbairn <br> [Christoph Herbert](https://github.com/chris-herb) |
+| [**Diffusion Models on WeatherBench**](https://github.com/ECMWFCode4Earth/challenges_2023/issues/5) | Mohit Anand <br> Jonathan Wider | [Jesper Dramsch](https://github.com/JesperDramsch) <br >[Florian Pinault](https://github.com/floriankrb) <br> [Baudouin Raoult](https://github.com/b8raoult) |
+| [**Using transformer models to develop a search engine for datasets, charts, and documentation**](https://github.com/ECMWFCode4Earth/challenges_2023/issues/9) | Piero Ferrarese | [Baudouin Raoult](https://github.com/b8raoult) <br> [Sylvie Lamy-Thepaut](https://github.com/sylvielamythepaut)  <br>  [Helen Setchell](https://github.com/kiden) <br> [Myranda Uselton Shirk](https://github.com/myrandaGoesToSpace)  |
+| [**Regional Reanalysis for Europe with Machine Learning**](https://github.com/ECMWFCode4Earth/challenges_2023/issues/10) | Irene Schicker <br> Markus Dabernig <br> Toni Jurlina <br> Alexander Kann <br> Sebastian Lehner <br> Konrad Mayer <br> Petrina Papazek <br> Matthias Schlögl | [Mohanad Albughdadi](https://github.com/AlbughdadiM) <br >[Matthew Chantry](https://github.com/mchantry) <br> [Andras Horanyi](https://github.com/HoranyiAndras) <br> [Cornel Soci](https://github.com/cornelsoci) |
+| [**Regional Reanalysis for Europe with Machine Learning**](https://github.com/ECMWFCode4Earth/challenges_2023/issues/10) | Antonio Perez Velasco <br> Mario Santa Cruz Lopez <br> Javier Diez Sierra | [Mohanad Albughdadi](https://github.com/AlbughdadiM) <br >[Matthew Chantry](https://github.com/mchantry) <br> [Andras Horanyi](https://github.com/HoranyiAndras) <br> [Cornel Soci](https://github.com/cornelsoci) |
+| [**Fire Forecasting**](https://github.com/ECMWFCode4Earth/challenges_2023/issues/13) | Robert Maiwald <br> Timo Metz <br> Christopher Lüken-Winkels <br> Eva-Marie Metz | [Johannes Kaiser](https://github.com/KaiserSF) <br >[Mark Parrington](https://github.com/mparrington) <br> [Miha Razinger](https://github.com/miha-at-ecmwf) <br> [Mihai Alexe](https://github.com/mishooax) <br> [Siham El Garroussi](https://github.com/syamelg) |
+
+
+
+
+
 
 <img src='./Stream 1.png' alt='ESoWC Stream 1' align='left' width='6%'>
 
